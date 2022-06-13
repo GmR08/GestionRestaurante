@@ -1,0 +1,8 @@
+Kebab;213;5.99
+Pollo frito;300;6
+Patatas fritas;183;3.99
+Pizza;320;8.99
+Taco;200;6.99
+Tortilla;200;3.99
+Croquetas;300;5.99
+Hamburguesa;400;8
